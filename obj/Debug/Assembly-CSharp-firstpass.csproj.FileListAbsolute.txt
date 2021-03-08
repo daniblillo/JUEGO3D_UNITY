@@ -1,0 +1,2 @@
+C:\Users\Daniel\Documents\Programacion\JUEGO3D_UNITY-master\obj\Debug\Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\Programacion\JUEGO3D_UNITY-master\obj\Debug\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache

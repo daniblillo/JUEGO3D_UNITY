@@ -1,0 +1,18 @@
+==== JUEGO ZOMBIE ====
+
+VISTAS
+	1 persona: Tecla 1
+	3 persona: Tecla 2
+
+Tecla R = Recargar
+Tecla Ctrl = Disparar
+
+MOVIMIENTO DE JUGADOR
+	Adelante: W
+	Izquierda: A
+	Derecha: D
+	Atrás: S
+	AltMayus: Correr
+
+ARMAS
+Cambiar de arma: Silueta de ratón
